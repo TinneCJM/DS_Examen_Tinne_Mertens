@@ -49,6 +49,7 @@ cd notebooks
 jupyter notebook examen_deel1.ipynb
 ```
 **First run all cells within the notebook**
+
 Next all cells can be investigated individually.
 
 ## Contact
