@@ -25,7 +25,7 @@ Provide a detailed description of your project, its purpose, and how it works.
 To get started, clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/TinneCJM/DS_Examen_Tinne_Mertens.git
 ```
 
 ### Set Up the Environment
@@ -34,16 +34,14 @@ Set up the conda environment using the provided `.yaml` file:
 
 ```sh
 conda env create -f environment.yaml
-conda activate your-environment-name
+conda activate environment.yaml
 ```
-
-Replace `your-environment-name` with the name of the environment specified in the `.yaml` file.
 
 ## Usage
 
 ### Running the Notebook
 
-Navigate to the `notebooks` folder and open `notebook.ipynb` using Jupyter Notebook:
+Navigate to the `notebooks` folder and open `20240604_examen_Tinne_Mertens.ipynb` using Jupyter Notebook:
 
 ```sh
 cd notebooks
@@ -56,8 +54,8 @@ Provide any additional instructions on how to use the notebook.
 
 If you have any questions or suggestions, feel free to reach out to:
 
-- Your Name - your.email@example.com
-- Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+- Your Name - tcj.mertens@gmail.com
+- Project Link: [https://github.com/TinneCJM/DS_Examen_Tinne_Mertens](https://github.com/TinneCJM/DS_Examen_Tinne_Mertens)
 
 ---
 
