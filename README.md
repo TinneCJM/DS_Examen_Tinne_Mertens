@@ -1,6 +1,6 @@
 # DS_Examen_Tinne_Mertens
 
-Brief description of what the project is about.
+This project contains the files for the first part of the Data Science Exam from AB Syntra on 4th of June 2024.
 
 ## Table of Contents
 
@@ -16,7 +16,8 @@ Brief description of what the project is about.
 
 ## Introduction
 
-Provide a detailed description of your project, its purpose, and how it works.
+In this project we investigate the number of births per day over the year 2019 in Belgium.
+This project is part 1 of the exam.
 
 ## Installation
 
@@ -41,22 +42,20 @@ conda activate environment.yaml
 
 ### Running the Notebook
 
-Navigate to the `notebooks` folder and open `20240604_examen_Tinne_Mertens.ipynb` using Jupyter Notebook:
+Navigate to the `notebooks` folder and open `examen_deel1.ipynb` using Jupyter Notebooks:
 
 ```sh
 cd notebooks
-jupyter notebook notebook.ipynb
+jupyter notebook examen_deel1.ipynb
 ```
-
-Provide any additional instructions on how to use the notebook.
+**First run all cells within the notebook**
+Next all cells can be investigated individually.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to:
 
-- Your Name - tcj.mertens@gmail.com
+- Tinne Mertens - tcj.mertens@gmail.com
 - Project Link: [https://github.com/TinneCJM/DS_Examen_Tinne_Mertens](https://github.com/TinneCJM/DS_Examen_Tinne_Mertens)
 
 ---
-
-Feel free to modify this template according to your project’s specific needs.
